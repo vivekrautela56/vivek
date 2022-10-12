@@ -1,15 +1,15 @@
-#vivek rautela 
+# vivek rautela 
 
 this is the personal website.
 
-##hobbies
+## hobbies
 1  playing chess
 2  listening music
 
-##qualification
+## qualification
 
 -B.TECH
 -M.TECH
 -P.hd
 
-i study at GNDEC
+i study at [GNDEC]
